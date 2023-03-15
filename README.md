@@ -72,6 +72,8 @@ namespace Expno01
 ## Output:
 ![](c%23ex01.png)
 
+![](exp2.png)
+
 
 
 ## Result:
